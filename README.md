@@ -40,11 +40,14 @@
  |                                                                      |
  +======================================================================+
 --->
+
 Apache Commons Imaging
 ===================
 
 [![Build Status](https://travis-ci.org/apache/commons-imaging.svg?branch=trunk)](https://travis-ci.org/apache/commons-imaging)
 [![License](http://img.shields.io/:license-apache-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
+
+_**This is a fork for Gini. We use it to create builds for our own Maven repository.**_
 
 Apache Commons Imaging (previously Sanselan) is a pure-Java image library.
 
